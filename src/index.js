@@ -2,6 +2,8 @@
 'use strict'
 require('dotenv').config()
 
+// Test
+
 const server = require('./server')
 const signale = require('./utils/signale')
 const config = require('./utils/config')
